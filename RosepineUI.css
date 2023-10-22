@@ -46,9 +46,9 @@
     --Streaming: rgb(110, 0, 196);
 
     /* UI COLOR VARIABLES */
-    --grey: rgb(18, 19, 31);
+    --grey: rgb(31, 29, 46);
     --grey5: rgba(18, 19, 31, .75);
-    --darkgrey: rgb(10, 10, 20);
+    --darkgrey: rgb(25, 23, 36);
     --darkgrey5: rgba(10, 10, 20, .75);
     --ui-success: rgb(176, 241, 160);
     --ui-warning: rgb(253, 205, 116);
@@ -65,14 +65,14 @@
 
     /* BACKGROUNDS */
     --background: url(https://raw.githubusercontent.com/darkthemer/rosepine-theme-windows/main/__wallpapers/such-sweet-poetry_rosepine.png);
-    --bg-titlebar: rgba(0, 0, 0, 0.65);
-    --bg-servers: rgba(0, 0, 0, 0.65);
-    --bg-ui: rgba(0, 0, 0, 0.65);
-    --bg-chatbox: rgba(0, 0, 0, 0.5);
-    --bg-sendmessage: rgba(0, 0, 0, 0.65);
-    --bg-members: rgba(0, 0, 0, 0.65);
-    --bg-chat-elements: rgba(0, 0, 0, 0.5);
-    --bg-colorprofile: rgba(0, 0, 0, 0.5);
+    --bg-titlebar: rgba(31, 29, 46, 0.65);
+    --bg-servers: rgba(25, 23, 36 0.65);
+    --bg-ui: rgba(31, 29, 46 0.65);
+    --bg-chatbox: rgba(38, 35, 58 0.5);
+    --bg-sendmessage: rgba(38, 35, 58, 0.65);
+    --bg-members: rgba(38, 35, 58, 0.65);
+    --bg-chat-elements: rgba(38, 35, 58, 0.5);
+    --bg-colorprofile: rgba(38, 35, 58 0.5);
 
     /* SERVER SETTINGS */
     --ServerSize: 45px;
