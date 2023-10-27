@@ -10,7 +10,7 @@ Nothing special, I just like the colors and look of it. It's not neat at ALL but
 
 you can use this alongside of the discord theme, make sure to configure it to the size of your computer if it looks off.
 
-![RosepinenightTab](https://github.com/JelloFruit/RosepineUI/assets/79553072/5197be52-09d8-4764-9c90-f446c0af562f)
+![fine](https://github.com/JelloFruit/RosepineUI/assets/79553072/718d7b4e-9011-4293-8adc-53979463c374)
 
 # Mangadex
 
