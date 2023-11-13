@@ -1,10 +1,9 @@
 # RosepineUI
 just a modified WizardUI theme using Rosepine's UI.
 
-Nothing special, I just like the colors and look of it. It's not neat at ALL but i'll make some more modifications soon.
+Nothing special, i just like rosepine :)
 
-
-![rosepineimagelol](https://github.com/JelloFruit/RosepineUI/assets/79553072/d8466844-81fc-40cd-863c-36c41ed51863)
+![Screenshot 2023-11-13 074703](https://github.com/JelloFruit/RosepineUI/assets/79553072/5c0793ab-a089-497a-8b34-9eb246803aca)
 
 # nightTab
 
